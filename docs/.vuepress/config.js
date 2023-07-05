@@ -8,7 +8,7 @@ export default {
         title: '码数吐司库', // 标题
         description: '码数吐司库文档', // 标题下的描述
         repo: 'ldqk/Masuit.Tools',
-        logo:"https://avatars.githubusercontent.com/u/20254980",
+        logo:"/images/20254980.png",
         // 默认主题配置
         navbar: [
             // NavbarItem
