@@ -63,8 +63,9 @@ public Startup(IConfiguration configuration)
 }
 ```
 
+## 使用
 
-## 特色功能示例代码
+### 特色功能示例代码
 
  
 
@@ -1188,7 +1189,7 @@ detector.FormatCategories;//格式类别
         Assert.Equal(obj["MyClass"]["X"], obj.MyClass.X);
 ```
 
-# Asp.Net MVC和Asp.Net Core的支持断点续传和多线程下载的ResumeFileResult
+## Asp.Net MVC和Asp.Net Core的支持断点续传和多线程下载的ResumeFileResult
 
 在ASP.NET Core中通过MVC/WebAPI应用程序传输文件数据时使用断点续传以及多线程下载支持。
 
